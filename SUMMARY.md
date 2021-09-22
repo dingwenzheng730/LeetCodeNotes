@@ -18,3 +18,11 @@
 
 * [Untitled](bfs/untitled.md)
 
+## Tree
+
+* [Untitled](tree/untitled.md)
+
+## LinkedList
+
+* [Untitled](linkedlist/untitled.md)
+
